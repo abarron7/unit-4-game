@@ -1,0 +1,13 @@
+.crystal-image {
+    width: 350px;
+    height: 350px;
+    padding-left: 1px;
+    padding-right: 1px;
+  }
+  img { 
+    border:1px solid white;
+ }
+body {
+    color: whitesmoke;
+    background-color: black
+}
